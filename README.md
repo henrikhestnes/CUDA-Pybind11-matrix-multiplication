@@ -11,7 +11,7 @@ Code for GPU-accelerating matrix multiplication in Python by exposing C++ and CU
 ## Usage
 Should compile out of the box by doing the following:
 ##### Bind C++ module to Python
-```sudo chmod +x bind_code.sh```
+```sudo chmod +x bind_code.sh```<br>
 ```./bind_code.sh```
 ##### Test code in Python
 ```python3 matmul.py```
