@@ -7,7 +7,7 @@ sys.path.append('build')
 import gpu_library
 
 
-M, N, K = 32*8, 32*8, 32*8
+M, N, K = 32*5, 32*5, 32*5
 A = np.random.rand(M, N)
 B = np.random.rand(N, K)
 
