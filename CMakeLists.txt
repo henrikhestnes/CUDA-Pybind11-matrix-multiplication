@@ -24,5 +24,3 @@ target_link_libraries(gpu_library
     cudart)
 
 set_target_properties(gpu_library PROPERTIES PREFIX "")
-
-#cuda_add_executable(multiply multiply_matrix.cu)
