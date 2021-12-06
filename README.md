@@ -1,5 +1,5 @@
 # CUDA-Pybind11-matrix-multiplication
-Code for GPU-accelerating matrix multiplication in Python by exposing C++ and CUDA code to Python using Pybind11.
+Code for GPU-accelerating arbitrary-sized matrix multiplication in Python by exposing C++ and CUDA code to Python using Pybind11.
 
 ## Prerequisites
 - Cuda installed in /usr/local/cuda
