@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.3)
-project(multiply)
+project(matmul)
 find_package(CUDA REQUIRED)
 find_package(PythonInterp 3.6 REQUIRED)
 find_package(PythonLibs 3.6 REQUIRED)
