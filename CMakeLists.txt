@@ -6,7 +6,6 @@ find_package(PythonLibs 3.6 REQUIRED)
 
 include_directories(
     ${PYTHON_INCLUDE_DIRS}
-    ${EIGEN3_INCLUDE_DIR}
     ./pybind11/include
     )
 
